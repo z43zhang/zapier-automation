@@ -14,7 +14,7 @@ I created and organized a series of Zaps into categories to highlight real-world
 
 ## 📸 Preview
 
-![Zapier Interface Screenshot](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage-v2.png)
+![Zapier Interface Screenshot](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage-v3.png)
 
 ---
 
