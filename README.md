@@ -2,7 +2,7 @@
 
 This project showcases a curated collection of Zapier automations and a public Zapier Interface, built to demonstrate how no-code workflows can streamline email communication, document creation, and business process automation.
 
-🔗 **Live Interface**: [View My Zapier Interface](https://new-interface-2a359d.zapier.app/page)
+🔗 **Live Interface**: [View My Zapier Interface](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage.png)
 
 ---
 
@@ -14,7 +14,7 @@ I created and organized a series of Zaps into categories to highlight real-world
 
 ## 📸 Preview
 
-![Zapier Interface Screenshot](interface-screenshots/interface-preview.png)
+![Zapier Interface Screenshot](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage.png)
 
 ---
 
