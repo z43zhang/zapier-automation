@@ -12,6 +12,12 @@ I created and organized a series of Zaps into categories to highlight real-world
 
 ---
 
+## 📸 Preview
+
+![Zapier Interface Screenshot](interface-screenshots/interface-preview.png)
+
+---
+
 ## ✨ Featured Automations
 
 ### 📬 Email Automations
@@ -71,11 +77,7 @@ Several Zaps use AI prompting techniques:
 - AI prompt engineering (GPT via Zapier’s AI actions)
 - Low-code/no-code system design
 
----
 
-## 📸 Preview
-
-![Zapier Interface Screenshot](interface-screenshots/interface-preview.png)
 
 ---
 
