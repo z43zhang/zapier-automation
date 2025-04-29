@@ -69,7 +69,7 @@ The interface showcases prompt-based and event-driven workflows that reduce manu
 
 📖 A custom-built chatbot that answers questions about workflows, automation logic, AI prompt systems and LLMs.
 
-🔗 [Try the Chatbot](https://your-chatbot-link.com)
+🔗 [Try the Chatbot](https://new-interface-2a359d.zapier.app/chatbot)
 
 ---
 
