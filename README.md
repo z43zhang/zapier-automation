@@ -81,6 +81,6 @@ The interface showcases prompt-based and event-driven workflows that reduce manu
 
 # 📸 Preview
 
-![Zapier Interface Screenshot](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage-v3.png)
+![Zapier Interface Screenshot](https://github.com/z43zhang/zapier-automation/blob/main/data/v5.png)
 
 ---
