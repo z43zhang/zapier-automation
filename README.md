@@ -1,8 +1,8 @@
-<h1 align="center">⚡Automations, Chatbot & Interface</h1>
+<h1 align="center">⚡AI-powered Automations, Chatbot & Interface</h1>
 
 This project presents a curated collection of automations, a chatbot and a public interface by Zapier, built to demonstrate how workflows can streamline email communication, document creation, and business process automation.
 
-🔗 **Live Interface**: [View My Zapier Interface](https://github.com/z43zhang/zapier-automation/blob/main/data/homepage.png)
+🔗 **Live Interface**: [View My Zapier Interface](https://new-interface-2a359d.zapier.app/main)
 
 ---
 
