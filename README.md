@@ -8,7 +8,7 @@ This project presents a curated collection of automations, a chatbot and a publi
 
 # 🔍 Overview
 
-I created and organized a series of automations to demonstrate how low-code tools can support real-world use cases involving AI and workflow automation. 
+A series of automations are created to demonstrate how low-code tools can support real-world use cases involving AI and workflow automation. 
 
 The interface showcases prompt-based and event-driven workflows that reduce manual work, improve response times, and make advanced automation accessible to cross-functional teams. It’s designed to be clean, modular, and easily adaptable across both technical and enterprise-facing environments.
 
@@ -61,7 +61,6 @@ The interface showcases prompt-based and event-driven workflows that reduce manu
 💬 **Dual Email Workflow and Slack after Form Submission**  
 📖 Instantly sends a thank-you email to users and alerts via Slack and Gmail on Interface form submission.  
 🔧 Zapier Interfaces, Paths by Zapier, Formatter by Zapier, Gmail, Slack, 
-
 
 ---
 
